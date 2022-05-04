@@ -1,0 +1,32 @@
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+
+.review__lists {
+
+}
+
+.review__item {
+  background-color: #fafafa;
+  border: 2px solid #222;
+  margin: 8px 0;
+  padding: 4px 12px;
+}
+
+.review__item__review {
+  display: flex;
+  justify-content: space-between;
+  align-items: above;
+  font-weight: 600;
+}
+
+.review__item__review h4 {
+  width: 80px;
+}
+
+.review__item__review p {
+  width: 720px;
+}
