@@ -16,10 +16,7 @@ function Login() {
       <li className="review__item" key={i}>
         <h3 className="review__item__title">{item.title}</h3>
         <p className="review__item__desc">{item.detail}</p>
-        <div className="review__item__review">
-          <h4>レビュー:</h4>
-          <p>{item.review}</p>
-        </div>
+        <p className="review__item__review">{item.review}</p>
         <button className="review__item__btn">
           <a href={item.url} className="review__item__link">購入</a>
         </button>
