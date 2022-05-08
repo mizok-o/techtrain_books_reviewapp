@@ -1,0 +1,29 @@
+.post__container {
+  max-width: 960px;
+  margin: 24px auto 0;
+  border: 2px solid #000;
+}
+
+.post__content {
+  padding: 24px;
+}
+
+.post__content p {
+  margin-top: 16px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.post__item {
+  width: 480px;
+  height: 32px;
+  padding: 2px 8px;
+  font-size: 20px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+
+.post__evalarea, .post__textarea {
+  width: 480px;
+  height: 120px;
+}
