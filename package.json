@@ -12,6 +12,7 @@
     "express": "^4.17.3",
     "http-proxy-middleware": "^2.0.4",
     "nodemon": "^2.0.15",
+    "prettier": "^2.8.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.3.0",
